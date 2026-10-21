@@ -2,10 +2,7 @@
 
 > **3rd Year Advanced Java Project | RTU Syllabus | B.Tech CSE**
 
-ShopSphere is a fully functional Java-based e-commerce web application demonstrating advanced Java concepts including Servlets, JSP, JDBC, RMI, Sockets, Swing, Serialization, JNDI, and Internationalization.
-
-🌐 **Live Demo:** [https://shopsphere-online.azurewebsites.net](https://shopsphere-online.azurewebsites.net)
-
+ShopSphere is a fully functional Java-based e-commerce web application demonstrating advanced Java concepts including Servlets, JSP, JDBC, RMI, Sockets, Swing, Serialization, JNDI, and Internationalization
 ---
 
 ## 📁 Repository Structure
@@ -172,27 +169,6 @@ mvn clean package
 
 ---
 
-## 🚀 Live Deployment
-
-The application is live on **Microsoft Azure App Service**:
-
-🔗 **[https://shopsphere-online.azurewebsites.net](https://shopsphere-online.azurewebsites.net)**
-
-- Hosted on Azure App Service (Linux)
-- MySQL 8 on Azure Database for MySQL Flexible Server
-- Deployed as WAR via GitHub Actions CI/CD pipeline
-- Secured with HTTPS (Azure-managed TLS certificate)
-
----
-
-## 🗄️ Database Files
-
-| File | Description |
-|---|---|
-| `database/shopsphere.sql` | Full schema (tables, constraints, indexes) |
-| `database/seed.sql` | Sample data (products, categories, users) |
-
----
 
 ## 📄 Documentation
 
@@ -211,8 +187,8 @@ The application is live on **Microsoft Azure App Service**:
 
 | Field | Details |
 |---|---|
-| **Name** | Piyush Garg |
-| **Roll No.** | 24EGJAD035|
+| **Name** | Sumit jain |
+| **Roll No.** | 24EGJAD051|
 | **Branch** | B.Tech — Artificial Intelligence & Data science |
 | **Year / Semester** | 3rd Year / 5th Semester |
 | **University** | Rajasthan Technical University (RTU) |
